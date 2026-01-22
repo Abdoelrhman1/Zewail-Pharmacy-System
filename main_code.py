@@ -1,6 +1,6 @@
-import Pharmacy.user_management as user_sys
-import Pharmacy.medicine_management as medicine_management  
-import Pharmacy.billing as bil
+import user_management as user_sys
+import medicine_management as medicine_management  
+import billing as bil
 
 def login_terminal():
     print("Welcome to Zewail Pharmacy")
